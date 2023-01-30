@@ -9,3 +9,6 @@ The amcl_demo.launch file found within the turtlebot_gazebo package launches the
 The pick_objects.launch file found within the pick_objects package launches the pick_objects node that informs the robot to move from point A to point B. The frame ID is the same map used in the  AMCL  launch file. It sends successive goals for the robot to reach. It creates a path for the robot based on Dijkstra's algorithm (a variant of the Uniform Cost Search algorithm) while avoiding obstacles on its path.
 
 The add_virtual_objects.launch file found within the add_virtual_objects package launches the add_virtual_objects node that adds markers of a cubic shape to the map. The frame ID is the same map used in the  AMCL  launch file. It subscribes to the odometry of the robot and based on the robot's pose, adds or removes markers.
+
+
+Link: https://youtu.be/gIrM1uhsVy8
