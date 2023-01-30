@@ -11,4 +11,4 @@ The pick_objects.launch file found within the pick_objects package launches the 
 The add_virtual_objects.launch file found within the add_virtual_objects package launches the add_virtual_objects node that adds markers of a cubic shape to the map. The frame ID is the same map used in the  AMCL  launch file. It subscribes to the odometry of the robot and based on the robot's pose, adds or removes markers.
 
 
-Link: https://youtu.be/gIrM1uhsVy8
+YouTube: https://youtu.be/gIrM1uhsVy8
