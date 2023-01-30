@@ -1,0 +1,3 @@
+<launch>
+  <node name="add_virtual_objects" pkg="add_virtual_objects" type="add_virtual_objects" output = "screen"/>
+</launch>
